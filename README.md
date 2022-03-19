@@ -25,4 +25,6 @@
 
 # Screen of the game launched
 
-<p align="center"><img src="GameScreen.PNG"\></p>
+<p align="center"><img src="GameWin.PNG"\></p>
+
+<p align="center"><img src="GameLost.PNG"\></p>
