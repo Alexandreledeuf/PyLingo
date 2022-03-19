@@ -24,7 +24,7 @@
 - If the variable made by the analysis contains all the letters in the right places, then the user has found the word and it is won!
 
 # Screen of the game launched
-
+- Win screenshot
 <p align="center"><img src="GameWin.PNG"\></p>
-
+- Lose screenshot
 <p align="center"><img src="GameLost.PNG"\></p>
